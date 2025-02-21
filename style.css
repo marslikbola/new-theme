@@ -1,0 +1,29 @@
+table{
+border-collapse: collapse;
+width: 80%;
+text-align: center;
+}
+td{
+border: 1px solid black;
+height: 80px;
+}
+.green{
+background-color: green;
+}
+.red{
+background-color: red;
+}
+.black{
+background-color: black;
+}
+.yellow{
+    background-color: yellow;
+}
+caption{
+    background-color: blue;
+}
+td{
+    color: white;
+}
+
+
